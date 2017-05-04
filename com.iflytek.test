@@ -1,0 +1,8 @@
+package com.iflytek.test
+
+public class HelloWorld{
+  public void static main(String[] args){
+    Sysout.out.println("Hello World!");
+  }
+
+}
